@@ -11,5 +11,6 @@ dependencies = [
 "python-dotenv",
 "pydantic",
 "duckduckgo-search",
-"langchain_google_genai"
+"langchain-google-genai",
+"ddgs"
 ]
