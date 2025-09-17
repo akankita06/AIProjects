@@ -1,0 +1,20 @@
+[project]
+name = "basic-ai-agent"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = [
+    "langchain",
+    "wikipedia",
+    "langchain-community",
+    "langchain-core",
+    "langchain-openai",
+    "python-dotenv",
+    "pydantic",
+    "duckduckgo-search",
+    "langchain-google-genai",
+    "ddgs",
+    "langchain-chroma>=0.2.6",
+    "pypdf>=6.0.0",
+    "langchain-text-splitters>=0.3.11",
+    "unstructured[md]>=0.11.2",
+]
